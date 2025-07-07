@@ -24,7 +24,6 @@ main li {
 }
 
 main li:nth-of-type(3) {
-    background-color: lightgray;
     grid-column: 1 / 3;
 }
 
